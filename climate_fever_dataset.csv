@@ -1,0 +1,1001 @@
+tweet,health_impact,sentiment,sentiment_value
+Transitioning to carbon capture improves public health.,mental health issues,Positive,1.0
+Rising temperatures are causing more malnutrition every year!,malnutrition,Negative,0.0
+Overfishing is increasing respiratory diseases.,malnutrition,Negative,0.0
+Switching to carbon capture creates jobs and boosts the biodiversity.,skin cancer,Positive,1.0
+electric vehicles is reducing emissions and improving economic growth.,allergies,Positive,1.0
+Transitioning to carbon capture improves biodiversity.,asthma,Positive,1.0
+Rising sea levels is linked to higher respiratory diseases rates.,heat strokes,Negative,0.0
+Rising sea levels is linked to higher eye diseases rates.,eye diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the economic growth.,eye diseases,Positive,1.0
+climate change is leading to more severe heat strokes.,mental health issues,Negative,0.0
+Switching to green buildings creates jobs and boosts the ecosystem stability.,vector-borne diseases,Positive,1.0
+"Melting glaciers is worsening due to climate change, affecting malnutrition.",mental health issues,Negative,0.0
+Land degradation events are becoming more frequent due to urbanization.,asthma,Negative,0.0
+Ocean acidification events are becoming more frequent due to global warming.,heat strokes,Negative,0.0
+urbanization is leading to more severe heat strokes.,malnutrition,Negative,0.0
+Land degradation is increasing skin cancer.,heart diseases,Negative,0.0
+human activities is leading to more severe allergies.,mental health issues,Negative,0.0
+Rising temperatures are causing more vector-borne diseases every year!,vector-borne diseases,Negative,0.0
+green buildings is reducing emissions and improving biodiversity.,vector-borne diseases,Positive,1.0
+Transitioning to carbon capture improves air quality.,allergies,Positive,1.0
+Transitioning to electric vehicles improves economic growth.,eye diseases,Positive,1.0
+Switching to carbon capture creates jobs and boosts the public health.,asthma,Positive,1.0
+Land degradation is increasing allergies.,skin cancer,Negative,0.0
+Switching to carbon capture creates jobs and boosts the public health.,eye diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+green buildings is reducing emissions and improving air quality.,asthma,Positive,1.0
+carbon capture is reducing emissions and improving air quality.,heart diseases,Positive,1.0
+Transitioning to renewable energy improves public health.,skin cancer,Positive,1.0
+Switching to green buildings creates jobs and boosts the biodiversity.,skin cancer,Positive,1.0
+Ocean acidification is increasing asthma.,skin cancer,Negative,0.0
+human activities is leading to more severe mental health issues.,skin cancer,Negative,0.0
+industrial pollution is leading to more severe skin cancer.,malnutrition,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to global warming.,eye diseases,Negative,0.0
+Rising temperatures are causing more malnutrition every year!,skin cancer,Negative,0.0
+Switching to carbon capture creates jobs and boosts the public health.,allergies,Positive,1.0
+Fossil fuel emissions is increasing asthma.,vector-borne diseases,Negative,0.0
+global warming is leading to more severe allergies.,allergies,Negative,0.0
+Overfishing events are becoming more frequent due to human activities.,vector-borne diseases,Negative,0.0
+Deforestation is linked to higher asthma rates.,allergies,Negative,0.0
+renewable energy is reducing emissions and improving air quality.,respiratory diseases,Positive,1.0
+green buildings is reducing emissions and improving ecosystem stability.,heart diseases,Positive,1.0
+industrial pollution is leading to more severe allergies.,respiratory diseases,Negative,0.0
+Rising sea levels is linked to higher respiratory diseases rates.,mental health issues,Negative,0.0
+urbanization is leading to more severe mental health issues.,mental health issues,Negative,0.0
+"The climate has always changed, nothing new.",mental health issues,Neutral,0.5
+"The climate has always changed, nothing new.",asthma,Neutral,0.5
+Air pollution is linked to higher respiratory diseases rates.,asthma,Negative,0.0
+Land degradation events are becoming more frequent due to climate change.,heart diseases,Negative,0.0
+Rising temperatures are causing more allergies every year!,respiratory diseases,Negative,0.0
+"The climate has always changed, nothing new.",heart diseases,Neutral,0.5
+Switching to carbon capture creates jobs and boosts the economic growth.,mental health issues,Positive,1.0
+Overfishing events are becoming more frequent due to industrial pollution.,mental health issues,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting asthma.",heat strokes,Negative,0.0
+Ocean acidification events are becoming more frequent due to industrial pollution.,asthma,Negative,0.0
+Overfishing events are becoming more frequent due to climate change.,eye diseases,Negative,0.0
+Plastic pollution is increasing asthma.,mental health issues,Negative,0.0
+Air pollution is linked to higher respiratory diseases rates.,respiratory diseases,Negative,0.0
+carbon capture is reducing emissions and improving economic growth.,asthma,Positive,1.0
+Transitioning to electric vehicles improves economic growth.,heat strokes,Positive,1.0
+Rising temperatures are causing more vector-borne diseases every year!,heart diseases,Negative,0.0
+Transitioning to green buildings improves biodiversity.,heat strokes,Positive,1.0
+Ocean acidification is increasing asthma.,heat strokes,Negative,0.0
+Transitioning to sustainable farming improves air quality.,vector-borne diseases,Positive,1.0
+Transitioning to renewable energy improves air quality.,respiratory diseases,Positive,1.0
+Transitioning to green buildings improves public health.,allergies,Positive,1.0
+Fossil fuel emissions events are becoming more frequent due to human activities.,vector-borne diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the air quality.,eye diseases,Positive,1.0
+"Extreme weather is worsening due to climate change, affecting heart diseases.",malnutrition,Negative,0.0
+sustainable farming is reducing emissions and improving economic growth.,skin cancer,Positive,1.0
+renewable energy is reducing emissions and improving biodiversity.,mental health issues,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the economic growth.,eye diseases,Positive,1.0
+Transitioning to green buildings improves public health.,skin cancer,Positive,1.0
+"Extreme weather is worsening due to climate change, affecting heat strokes.",heat strokes,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting asthma.",eye diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the biodiversity.,vector-borne diseases,Positive,1.0
+Land degradation events are becoming more frequent due to human activities.,malnutrition,Negative,0.0
+Air pollution is linked to higher heart diseases rates.,eye diseases,Negative,0.0
+"The climate has always changed, nothing new.",eye diseases,Neutral,0.5
+Fossil fuel emissions is increasing asthma.,heart diseases,Negative,0.0
+carbon capture is reducing emissions and improving ecosystem stability.,malnutrition,Positive,1.0
+Deforestation is linked to higher malnutrition rates.,respiratory diseases,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,asthma,Negative,0.0
+carbon capture is reducing emissions and improving economic growth.,heart diseases,Positive,1.0
+Transitioning to renewable energy improves public health.,asthma,Positive,1.0
+"The climate has always changed, nothing new.",heart diseases,Neutral,0.5
+Transitioning to sustainable farming improves air quality.,heat strokes,Positive,1.0
+Overfishing events are becoming more frequent due to climate change.,asthma,Negative,0.0
+electric vehicles is reducing emissions and improving economic growth.,mental health issues,Positive,1.0
+Transitioning to sustainable farming improves ecosystem stability.,malnutrition,Positive,1.0
+Rising temperatures are causing more heart diseases every year!,skin cancer,Negative,0.0
+Air pollution is linked to higher asthma rates.,heart diseases,Negative,0.0
+Plastic pollution events are becoming more frequent due to industrial pollution.,heart diseases,Negative,0.0
+renewable energy is reducing emissions and improving biodiversity.,malnutrition,Positive,1.0
+Fossil fuel emissions events are becoming more frequent due to climate change.,vector-borne diseases,Negative,0.0
+electric vehicles is reducing emissions and improving air quality.,heat strokes,Positive,1.0
+Overfishing is increasing heart diseases.,malnutrition,Negative,0.0
+Rising temperatures are causing more vector-borne diseases every year!,allergies,Negative,0.0
+sustainable farming is reducing emissions and improving biodiversity.,heat strokes,Positive,1.0
+Ocean acidification events are becoming more frequent due to urbanization.,skin cancer,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting heart diseases.",mental health issues,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the ecosystem stability.,heart diseases,Positive,1.0
+"Air pollution is worsening due to climate change, affecting heat strokes.",skin cancer,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting mental health issues.",malnutrition,Negative,0.0
+Ocean acidification is increasing skin cancer.,eye diseases,Negative,0.0
+electric vehicles is reducing emissions and improving biodiversity.,heart diseases,Positive,1.0
+Switching to green buildings creates jobs and boosts the air quality.,eye diseases,Positive,1.0
+"Deforestation is worsening due to climate change, affecting vector-borne diseases.",malnutrition,Negative,0.0
+Deforestation is linked to higher allergies rates.,heat strokes,Negative,0.0
+Deforestation is linked to higher vector-borne diseases rates.,heart diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting heart diseases.",vector-borne diseases,Negative,0.0
+electric vehicles is reducing emissions and improving public health.,allergies,Positive,1.0
+global warming is leading to more severe respiratory diseases.,eye diseases,Negative,0.0
+climate change is leading to more severe heat strokes.,heart diseases,Negative,0.0
+electric vehicles is reducing emissions and improving air quality.,eye diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",allergies,Neutral,0.5
+Extreme weather is linked to higher mental health issues rates.,eye diseases,Negative,0.0
+human activities is leading to more severe heat strokes.,heat strokes,Negative,0.0
+Switching to green buildings creates jobs and boosts the biodiversity.,asthma,Positive,1.0
+Switching to renewable energy creates jobs and boosts the ecosystem stability.,mental health issues,Positive,1.0
+human activities is leading to more severe vector-borne diseases.,respiratory diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting asthma.",respiratory diseases,Negative,0.0
+Air pollution is linked to higher heat strokes rates.,mental health issues,Negative,0.0
+"The climate has always changed, nothing new.",vector-borne diseases,Neutral,0.5
+Transitioning to carbon capture improves ecosystem stability.,heart diseases,Positive,1.0
+"Extreme weather is worsening due to climate change, affecting heat strokes.",skin cancer,Negative,0.0
+global warming is leading to more severe vector-borne diseases.,eye diseases,Negative,0.0
+Rising temperatures are causing more vector-borne diseases every year!,asthma,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting heat strokes.",malnutrition,Negative,0.0
+Rising temperatures are causing more mental health issues every year!,malnutrition,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the air quality.,heart diseases,Positive,1.0
+Plastic pollution events are becoming more frequent due to global warming.,respiratory diseases,Negative,0.0
+Overfishing is increasing heart diseases.,allergies,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the ecosystem stability.,vector-borne diseases,Positive,1.0
+"The climate has always changed, nothing new.",allergies,Neutral,0.5
+Rising temperatures are causing more mental health issues every year!,heart diseases,Negative,0.0
+carbon capture is reducing emissions and improving economic growth.,respiratory diseases,Positive,1.0
+urbanization is leading to more severe eye diseases.,malnutrition,Negative,0.0
+Rising temperatures are causing more skin cancer every year!,allergies,Negative,0.0
+Melting glaciers is linked to higher mental health issues rates.,allergies,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the biodiversity.,allergies,Positive,1.0
+Rising temperatures are causing more vector-borne diseases every year!,eye diseases,Negative,0.0
+Land degradation is increasing heart diseases.,allergies,Negative,0.0
+"The climate has always changed, nothing new.",vector-borne diseases,Neutral,0.5
+Rising temperatures are causing more malnutrition every year!,eye diseases,Negative,0.0
+Ocean acidification events are becoming more frequent due to urbanization.,allergies,Negative,0.0
+"The climate has always changed, nothing new.",mental health issues,Neutral,0.5
+"Climate change is a myth, no need to worry.",vector-borne diseases,Neutral,0.5
+Ocean acidification is increasing allergies.,mental health issues,Negative,0.0
+Transitioning to renewable energy improves ecosystem stability.,asthma,Positive,1.0
+"The climate has always changed, nothing new.",mental health issues,Neutral,0.5
+Fossil fuel emissions is increasing heat strokes.,malnutrition,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to global warming.,allergies,Negative,0.0
+Plastic pollution events are becoming more frequent due to industrial pollution.,vector-borne diseases,Negative,0.0
+urbanization is leading to more severe skin cancer.,respiratory diseases,Negative,0.0
+industrial pollution is leading to more severe malnutrition.,allergies,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting allergies.",malnutrition,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the public health.,asthma,Positive,1.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+Land degradation is increasing malnutrition.,skin cancer,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,allergies,Negative,0.0
+renewable energy is reducing emissions and improving public health.,malnutrition,Positive,1.0
+Plastic pollution events are becoming more frequent due to climate change.,heat strokes,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting skin cancer.",asthma,Negative,0.0
+"Air pollution is worsening due to climate change, affecting eye diseases.",heat strokes,Negative,0.0
+Rising temperatures are causing more mental health issues every year!,mental health issues,Negative,0.0
+Overfishing is increasing vector-borne diseases.,heat strokes,Negative,0.0
+Rising temperatures are causing more malnutrition every year!,skin cancer,Negative,0.0
+"The climate has always changed, nothing new.",allergies,Neutral,0.5
+Ocean acidification is increasing skin cancer.,malnutrition,Negative,0.0
+Land degradation is increasing mental health issues.,respiratory diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+Land degradation is increasing heat strokes.,vector-borne diseases,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,malnutrition,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to industrial pollution.,mental health issues,Negative,0.0
+"Air pollution is worsening due to climate change, affecting skin cancer.",mental health issues,Negative,0.0
+"The climate has always changed, nothing new.",eye diseases,Neutral,0.5
+global warming is leading to more severe malnutrition.,malnutrition,Negative,0.0
+"The climate has always changed, nothing new.",vector-borne diseases,Neutral,0.5
+Overfishing is increasing skin cancer.,asthma,Negative,0.0
+Rising temperatures are causing more malnutrition every year!,eye diseases,Negative,0.0
+green buildings is reducing emissions and improving air quality.,mental health issues,Positive,1.0
+Overfishing events are becoming more frequent due to industrial pollution.,asthma,Negative,0.0
+Switching to carbon capture creates jobs and boosts the ecosystem stability.,eye diseases,Positive,1.0
+carbon capture is reducing emissions and improving public health.,heart diseases,Positive,1.0
+Deforestation is linked to higher heat strokes rates.,asthma,Negative,0.0
+Transitioning to carbon capture improves biodiversity.,mental health issues,Positive,1.0
+Rising temperatures are causing more malnutrition every year!,respiratory diseases,Negative,0.0
+Deforestation is linked to higher mental health issues rates.,skin cancer,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to urbanization.,skin cancer,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,heat strokes,Negative,0.0
+global warming is leading to more severe malnutrition.,heart diseases,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to climate change.,mental health issues,Negative,0.0
+"The climate has always changed, nothing new.",asthma,Neutral,0.5
+Rising temperatures are causing more vector-borne diseases every year!,eye diseases,Negative,0.0
+"The climate has always changed, nothing new.",vector-borne diseases,Neutral,0.5
+Rising sea levels is linked to higher mental health issues rates.,asthma,Negative,0.0
+Rising temperatures are causing more respiratory diseases every year!,vector-borne diseases,Negative,0.0
+Air pollution is linked to higher allergies rates.,heat strokes,Negative,0.0
+Plastic pollution is increasing heat strokes.,asthma,Negative,0.0
+renewable energy is reducing emissions and improving economic growth.,respiratory diseases,Positive,1.0
+Ocean acidification is increasing vector-borne diseases.,eye diseases,Negative,0.0
+Transitioning to carbon capture improves ecosystem stability.,heat strokes,Positive,1.0
+sustainable farming is reducing emissions and improving public health.,mental health issues,Positive,1.0
+Transitioning to electric vehicles improves biodiversity.,skin cancer,Positive,1.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+Extreme weather is linked to higher allergies rates.,malnutrition,Negative,0.0
+Rising temperatures are causing more heart diseases every year!,heart diseases,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting malnutrition.",allergies,Negative,0.0
+carbon capture is reducing emissions and improving air quality.,respiratory diseases,Positive,1.0
+Transitioning to sustainable farming improves economic growth.,eye diseases,Positive,1.0
+climate change is leading to more severe respiratory diseases.,vector-borne diseases,Negative,0.0
+Land degradation events are becoming more frequent due to climate change.,vector-borne diseases,Negative,0.0
+Rising temperatures are causing more allergies every year!,heat strokes,Negative,0.0
+Transitioning to sustainable farming improves air quality.,allergies,Positive,1.0
+Land degradation is increasing heart diseases.,mental health issues,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting respiratory diseases.",mental health issues,Negative,0.0
+Rising sea levels is linked to higher mental health issues rates.,eye diseases,Negative,0.0
+Land degradation is increasing asthma.,skin cancer,Negative,0.0
+Land degradation events are becoming more frequent due to human activities.,heart diseases,Negative,0.0
+green buildings is reducing emissions and improving public health.,asthma,Positive,1.0
+Fossil fuel emissions is increasing heat strokes.,malnutrition,Negative,0.0
+"Climate change is a myth, no need to worry.",asthma,Neutral,0.5
+"Extreme weather is worsening due to climate change, affecting eye diseases.",malnutrition,Negative,0.0
+Transitioning to carbon capture improves biodiversity.,malnutrition,Positive,1.0
+Switching to electric vehicles creates jobs and boosts the public health.,asthma,Positive,1.0
+Rising temperatures are causing more asthma every year!,malnutrition,Negative,0.0
+sustainable farming is reducing emissions and improving biodiversity.,eye diseases,Positive,1.0
+Switching to renewable energy creates jobs and boosts the ecosystem stability.,vector-borne diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+"Rising sea levels is worsening due to climate change, affecting skin cancer.",mental health issues,Negative,0.0
+Switching to carbon capture creates jobs and boosts the economic growth.,eye diseases,Positive,1.0
+sustainable farming is reducing emissions and improving biodiversity.,malnutrition,Positive,1.0
+Transitioning to carbon capture improves air quality.,mental health issues,Positive,1.0
+Fossil fuel emissions is increasing respiratory diseases.,allergies,Negative,0.0
+global warming is leading to more severe vector-borne diseases.,vector-borne diseases,Negative,0.0
+Land degradation events are becoming more frequent due to human activities.,heat strokes,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the biodiversity.,asthma,Positive,1.0
+climate change is leading to more severe eye diseases.,mental health issues,Negative,0.0
+renewable energy is reducing emissions and improving biodiversity.,heart diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",allergies,Neutral,0.5
+Land degradation events are becoming more frequent due to climate change.,malnutrition,Negative,0.0
+Rising temperatures are causing more skin cancer every year!,heart diseases,Negative,0.0
+Transitioning to renewable energy improves biodiversity.,mental health issues,Positive,1.0
+"Deforestation is worsening due to climate change, affecting allergies.",skin cancer,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,mental health issues,Negative,0.0
+"Air pollution is worsening due to climate change, affecting skin cancer.",mental health issues,Negative,0.0
+Switching to green buildings creates jobs and boosts the air quality.,vector-borne diseases,Positive,1.0
+Switching to electric vehicles creates jobs and boosts the biodiversity.,vector-borne diseases,Positive,1.0
+Deforestation is linked to higher eye diseases rates.,mental health issues,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,heart diseases,Negative,0.0
+Transitioning to carbon capture improves air quality.,heat strokes,Positive,1.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+"Air pollution is worsening due to climate change, affecting eye diseases.",mental health issues,Negative,0.0
+industrial pollution is leading to more severe asthma.,heat strokes,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting vector-borne diseases.",heat strokes,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting asthma.",allergies,Negative,0.0
+Extreme weather is linked to higher respiratory diseases rates.,eye diseases,Negative,0.0
+Switching to carbon capture creates jobs and boosts the biodiversity.,skin cancer,Positive,1.0
+Rising temperatures are causing more allergies every year!,vector-borne diseases,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting respiratory diseases.",vector-borne diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",malnutrition,Neutral,0.5
+Transitioning to carbon capture improves biodiversity.,vector-borne diseases,Positive,1.0
+Land degradation events are becoming more frequent due to global warming.,heart diseases,Negative,0.0
+industrial pollution is leading to more severe malnutrition.,vector-borne diseases,Negative,0.0
+carbon capture is reducing emissions and improving economic growth.,heart diseases,Positive,1.0
+Rising sea levels is linked to higher skin cancer rates.,heart diseases,Negative,0.0
+"Air pollution is worsening due to climate change, affecting asthma.",eye diseases,Negative,0.0
+electric vehicles is reducing emissions and improving ecosystem stability.,vector-borne diseases,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the ecosystem stability.,eye diseases,Positive,1.0
+"The climate has always changed, nothing new.",malnutrition,Neutral,0.5
+Plastic pollution is increasing eye diseases.,mental health issues,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the public health.,eye diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+"Deforestation is worsening due to climate change, affecting skin cancer.",malnutrition,Negative,0.0
+industrial pollution is leading to more severe eye diseases.,respiratory diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",heart diseases,Neutral,0.5
+Overfishing is increasing heat strokes.,eye diseases,Negative,0.0
+sustainable farming is reducing emissions and improving ecosystem stability.,respiratory diseases,Positive,1.0
+industrial pollution is leading to more severe asthma.,skin cancer,Negative,0.0
+"Climate change is a myth, no need to worry.",vector-borne diseases,Neutral,0.5
+Deforestation is linked to higher vector-borne diseases rates.,heat strokes,Negative,0.0
+Plastic pollution events are becoming more frequent due to global warming.,skin cancer,Negative,0.0
+human activities is leading to more severe mental health issues.,heat strokes,Negative,0.0
+Rising temperatures are causing more heart diseases every year!,eye diseases,Negative,0.0
+Rising temperatures are causing more heart diseases every year!,asthma,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the public health.,skin cancer,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting respiratory diseases.",mental health issues,Negative,0.0
+Overfishing events are becoming more frequent due to climate change.,mental health issues,Negative,0.0
+Air pollution is linked to higher asthma rates.,asthma,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the biodiversity.,vector-borne diseases,Positive,1.0
+industrial pollution is leading to more severe respiratory diseases.,heat strokes,Negative,0.0
+Fossil fuel emissions is increasing vector-borne diseases.,allergies,Negative,0.0
+"Deforestation is worsening due to climate change, affecting skin cancer.",mental health issues,Negative,0.0
+Ocean acidification is increasing heart diseases.,skin cancer,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the ecosystem stability.,malnutrition,Positive,1.0
+Transitioning to renewable energy improves economic growth.,vector-borne diseases,Positive,1.0
+Extreme weather is linked to higher respiratory diseases rates.,heart diseases,Negative,0.0
+Air pollution is linked to higher mental health issues rates.,eye diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting respiratory diseases.",respiratory diseases,Negative,0.0
+Melting glaciers is linked to higher heart diseases rates.,malnutrition,Negative,0.0
+Plastic pollution is increasing skin cancer.,malnutrition,Negative,0.0
+Extreme weather is linked to higher heat strokes rates.,vector-borne diseases,Negative,0.0
+Rising temperatures are causing more heat strokes every year!,skin cancer,Negative,0.0
+industrial pollution is leading to more severe heart diseases.,heat strokes,Negative,0.0
+Extreme weather is linked to higher heat strokes rates.,vector-borne diseases,Negative,0.0
+sustainable farming is reducing emissions and improving economic growth.,allergies,Positive,1.0
+Transitioning to sustainable farming improves air quality.,malnutrition,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the ecosystem stability.,eye diseases,Positive,1.0
+Melting glaciers is linked to higher respiratory diseases rates.,mental health issues,Negative,0.0
+urbanization is leading to more severe heart diseases.,respiratory diseases,Negative,0.0
+Plastic pollution events are becoming more frequent due to climate change.,mental health issues,Negative,0.0
+"Climate change is a myth, no need to worry.",skin cancer,Neutral,0.5
+Switching to renewable energy creates jobs and boosts the air quality.,malnutrition,Positive,1.0
+renewable energy is reducing emissions and improving public health.,heat strokes,Positive,1.0
+Extreme weather is linked to higher heart diseases rates.,asthma,Negative,0.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+Rising temperatures are causing more respiratory diseases every year!,respiratory diseases,Negative,0.0
+Rising temperatures are causing more malnutrition every year!,respiratory diseases,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to human activities.,respiratory diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the ecosystem stability.,asthma,Positive,1.0
+"Climate change is a myth, no need to worry.",vector-borne diseases,Neutral,0.5
+industrial pollution is leading to more severe allergies.,heart diseases,Negative,0.0
+"Air pollution is worsening due to climate change, affecting allergies.",allergies,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the economic growth.,asthma,Positive,1.0
+Ocean acidification events are becoming more frequent due to industrial pollution.,allergies,Negative,0.0
+Deforestation is linked to higher vector-borne diseases rates.,mental health issues,Negative,0.0
+Land degradation is increasing mental health issues.,malnutrition,Negative,0.0
+Rising temperatures are causing more asthma every year!,asthma,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,vector-borne diseases,Negative,0.0
+"Deforestation is worsening due to climate change, affecting heat strokes.",allergies,Negative,0.0
+Rising temperatures are causing more heart diseases every year!,allergies,Negative,0.0
+global warming is leading to more severe heart diseases.,heart diseases,Negative,0.0
+Transitioning to carbon capture improves ecosystem stability.,mental health issues,Positive,1.0
+Overfishing events are becoming more frequent due to global warming.,respiratory diseases,Negative,0.0
+"Air pollution is worsening due to climate change, affecting heat strokes.",asthma,Negative,0.0
+Melting glaciers is linked to higher malnutrition rates.,allergies,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,malnutrition,Negative,0.0
+Plastic pollution events are becoming more frequent due to human activities.,allergies,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting respiratory diseases.",allergies,Negative,0.0
+renewable energy is reducing emissions and improving biodiversity.,mental health issues,Positive,1.0
+Land degradation events are becoming more frequent due to global warming.,eye diseases,Negative,0.0
+carbon capture is reducing emissions and improving ecosystem stability.,malnutrition,Positive,1.0
+Rising temperatures are causing more mental health issues every year!,heat strokes,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting respiratory diseases.",vector-borne diseases,Negative,0.0
+Deforestation is linked to higher eye diseases rates.,malnutrition,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting vector-borne diseases.",vector-borne diseases,Negative,0.0
+Melting glaciers is linked to higher mental health issues rates.,mental health issues,Negative,0.0
+Extreme weather is linked to higher heart diseases rates.,mental health issues,Negative,0.0
+Switching to green buildings creates jobs and boosts the air quality.,respiratory diseases,Positive,1.0
+Air pollution is linked to higher vector-borne diseases rates.,vector-borne diseases,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting heat strokes.",allergies,Negative,0.0
+global warming is leading to more severe mental health issues.,respiratory diseases,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the public health.,skin cancer,Positive,1.0
+electric vehicles is reducing emissions and improving economic growth.,malnutrition,Positive,1.0
+sustainable farming is reducing emissions and improving air quality.,malnutrition,Positive,1.0
+Rising sea levels is linked to higher vector-borne diseases rates.,heat strokes,Negative,0.0
+industrial pollution is leading to more severe eye diseases.,malnutrition,Negative,0.0
+industrial pollution is leading to more severe allergies.,skin cancer,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting heat strokes.",malnutrition,Negative,0.0
+Rising temperatures are causing more heart diseases every year!,allergies,Negative,0.0
+"The climate has always changed, nothing new.",heat strokes,Neutral,0.5
+green buildings is reducing emissions and improving ecosystem stability.,heart diseases,Positive,1.0
+climate change is leading to more severe heat strokes.,heat strokes,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the public health.,vector-borne diseases,Positive,1.0
+Rising temperatures are causing more skin cancer every year!,skin cancer,Negative,0.0
+urbanization is leading to more severe heart diseases.,malnutrition,Negative,0.0
+Overfishing is increasing skin cancer.,respiratory diseases,Negative,0.0
+Fossil fuel emissions is increasing malnutrition.,eye diseases,Negative,0.0
+Deforestation is linked to higher mental health issues rates.,heart diseases,Negative,0.0
+renewable energy is reducing emissions and improving biodiversity.,heat strokes,Positive,1.0
+Melting glaciers is linked to higher asthma rates.,mental health issues,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to industrial pollution.,heart diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the public health.,skin cancer,Positive,1.0
+Extreme weather is linked to higher vector-borne diseases rates.,heat strokes,Negative,0.0
+Plastic pollution is increasing respiratory diseases.,vector-borne diseases,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the air quality.,skin cancer,Positive,1.0
+Land degradation events are becoming more frequent due to industrial pollution.,heat strokes,Negative,0.0
+human activities is leading to more severe eye diseases.,mental health issues,Negative,0.0
+human activities is leading to more severe eye diseases.,skin cancer,Negative,0.0
+Rising temperatures are causing more skin cancer every year!,malnutrition,Negative,0.0
+urbanization is leading to more severe allergies.,malnutrition,Negative,0.0
+Switching to carbon capture creates jobs and boosts the biodiversity.,skin cancer,Positive,1.0
+industrial pollution is leading to more severe malnutrition.,vector-borne diseases,Negative,0.0
+Air pollution is linked to higher eye diseases rates.,malnutrition,Negative,0.0
+Melting glaciers is linked to higher heart diseases rates.,heat strokes,Negative,0.0
+Overfishing events are becoming more frequent due to climate change.,skin cancer,Negative,0.0
+Transitioning to green buildings improves biodiversity.,skin cancer,Positive,1.0
+Transitioning to green buildings improves biodiversity.,respiratory diseases,Positive,1.0
+Switching to renewable energy creates jobs and boosts the air quality.,skin cancer,Positive,1.0
+urbanization is leading to more severe heat strokes.,allergies,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,vector-borne diseases,Negative,0.0
+Fossil fuel emissions is increasing malnutrition.,malnutrition,Negative,0.0
+electric vehicles is reducing emissions and improving air quality.,heat strokes,Positive,1.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+Switching to sustainable farming creates jobs and boosts the biodiversity.,skin cancer,Positive,1.0
+global warming is leading to more severe skin cancer.,mental health issues,Negative,0.0
+Transitioning to green buildings improves public health.,vector-borne diseases,Positive,1.0
+Melting glaciers is linked to higher respiratory diseases rates.,asthma,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the biodiversity.,mental health issues,Positive,1.0
+Land degradation is increasing allergies.,asthma,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,skin cancer,Negative,0.0
+Land degradation events are becoming more frequent due to climate change.,heart diseases,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting asthma.",skin cancer,Negative,0.0
+Switching to carbon capture creates jobs and boosts the air quality.,vector-borne diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+Switching to carbon capture creates jobs and boosts the biodiversity.,heart diseases,Positive,1.0
+human activities is leading to more severe vector-borne diseases.,respiratory diseases,Negative,0.0
+carbon capture is reducing emissions and improving public health.,eye diseases,Positive,1.0
+sustainable farming is reducing emissions and improving economic growth.,skin cancer,Positive,1.0
+industrial pollution is leading to more severe vector-borne diseases.,heart diseases,Negative,0.0
+renewable energy is reducing emissions and improving ecosystem stability.,heat strokes,Positive,1.0
+Fossil fuel emissions events are becoming more frequent due to human activities.,asthma,Negative,0.0
+Transitioning to carbon capture improves economic growth.,heart diseases,Positive,1.0
+"Melting glaciers is worsening due to climate change, affecting eye diseases.",vector-borne diseases,Negative,0.0
+Plastic pollution is increasing heat strokes.,vector-borne diseases,Negative,0.0
+Overfishing is increasing asthma.,respiratory diseases,Negative,0.0
+green buildings is reducing emissions and improving ecosystem stability.,asthma,Positive,1.0
+Deforestation is linked to higher skin cancer rates.,respiratory diseases,Negative,0.0
+electric vehicles is reducing emissions and improving ecosystem stability.,asthma,Positive,1.0
+renewable energy is reducing emissions and improving economic growth.,skin cancer,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting mental health issues.",allergies,Negative,0.0
+"Climate change is a myth, no need to worry.",asthma,Neutral,0.5
+electric vehicles is reducing emissions and improving economic growth.,mental health issues,Positive,1.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+Switching to electric vehicles creates jobs and boosts the ecosystem stability.,respiratory diseases,Positive,1.0
+Transitioning to green buildings improves public health.,heart diseases,Positive,1.0
+renewable energy is reducing emissions and improving ecosystem stability.,asthma,Positive,1.0
+Land degradation events are becoming more frequent due to climate change.,vector-borne diseases,Negative,0.0
+global warming is leading to more severe skin cancer.,eye diseases,Negative,0.0
+sustainable farming is reducing emissions and improving economic growth.,vector-borne diseases,Positive,1.0
+Fossil fuel emissions events are becoming more frequent due to industrial pollution.,asthma,Negative,0.0
+Transitioning to sustainable farming improves air quality.,asthma,Positive,1.0
+Air pollution is linked to higher mental health issues rates.,respiratory diseases,Negative,0.0
+"The climate has always changed, nothing new.",mental health issues,Neutral,0.5
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+green buildings is reducing emissions and improving public health.,malnutrition,Positive,1.0
+Transitioning to sustainable farming improves biodiversity.,vector-borne diseases,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the air quality.,allergies,Positive,1.0
+Air pollution is linked to higher heat strokes rates.,eye diseases,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting mental health issues.",malnutrition,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the economic growth.,skin cancer,Positive,1.0
+Land degradation events are becoming more frequent due to global warming.,eye diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+Ocean acidification is increasing heat strokes.,vector-borne diseases,Negative,0.0
+"Air pollution is worsening due to climate change, affecting heart diseases.",heart diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",skin cancer,Neutral,0.5
+"Extreme weather is worsening due to climate change, affecting allergies.",skin cancer,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting heat strokes.",heat strokes,Negative,0.0
+Rising temperatures are causing more respiratory diseases every year!,eye diseases,Negative,0.0
+human activities is leading to more severe eye diseases.,asthma,Negative,0.0
+Air pollution is linked to higher heat strokes rates.,malnutrition,Negative,0.0
+Melting glaciers is linked to higher allergies rates.,malnutrition,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting respiratory diseases.",allergies,Negative,0.0
+Transitioning to carbon capture improves ecosystem stability.,vector-borne diseases,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting mental health issues.",heat strokes,Negative,0.0
+climate change is leading to more severe mental health issues.,heat strokes,Negative,0.0
+Fossil fuel emissions is increasing allergies.,vector-borne diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",heart diseases,Neutral,0.5
+Overfishing events are becoming more frequent due to industrial pollution.,vector-borne diseases,Negative,0.0
+Transitioning to carbon capture improves air quality.,heart diseases,Positive,1.0
+Rising temperatures are causing more asthma every year!,allergies,Negative,0.0
+Rising temperatures are causing more asthma every year!,malnutrition,Negative,0.0
+Overfishing events are becoming more frequent due to human activities.,eye diseases,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,vector-borne diseases,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting heart diseases.",asthma,Negative,0.0
+Rising sea levels is linked to higher heart diseases rates.,malnutrition,Negative,0.0
+renewable energy is reducing emissions and improving economic growth.,allergies,Positive,1.0
+human activities is leading to more severe skin cancer.,heat strokes,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting allergies.",asthma,Negative,0.0
+Ocean acidification is increasing allergies.,malnutrition,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting asthma.",skin cancer,Negative,0.0
+Plastic pollution is increasing vector-borne diseases.,vector-borne diseases,Negative,0.0
+sustainable farming is reducing emissions and improving biodiversity.,allergies,Positive,1.0
+Transitioning to carbon capture improves public health.,skin cancer,Positive,1.0
+Extreme weather is linked to higher vector-borne diseases rates.,asthma,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting allergies.",respiratory diseases,Negative,0.0
+carbon capture is reducing emissions and improving public health.,respiratory diseases,Positive,1.0
+Fossil fuel emissions is increasing asthma.,vector-borne diseases,Negative,0.0
+carbon capture is reducing emissions and improving public health.,vector-borne diseases,Positive,1.0
+"Air pollution is worsening due to climate change, affecting malnutrition.",respiratory diseases,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,asthma,Negative,0.0
+Melting glaciers is linked to higher heat strokes rates.,heart diseases,Negative,0.0
+"The climate has always changed, nothing new.",allergies,Neutral,0.5
+global warming is leading to more severe vector-borne diseases.,allergies,Negative,0.0
+Switching to green buildings creates jobs and boosts the economic growth.,allergies,Positive,1.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+global warming is leading to more severe allergies.,malnutrition,Negative,0.0
+Fossil fuel emissions is increasing heart diseases.,asthma,Negative,0.0
+Extreme weather is linked to higher asthma rates.,heart diseases,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the ecosystem stability.,vector-borne diseases,Positive,1.0
+Transitioning to electric vehicles improves economic growth.,vector-borne diseases,Positive,1.0
+human activities is leading to more severe allergies.,malnutrition,Negative,0.0
+Land degradation events are becoming more frequent due to urbanization.,heat strokes,Negative,0.0
+Plastic pollution events are becoming more frequent due to global warming.,eye diseases,Negative,0.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+Transitioning to renewable energy improves public health.,malnutrition,Positive,1.0
+Melting glaciers is linked to higher respiratory diseases rates.,asthma,Negative,0.0
+Transitioning to renewable energy improves biodiversity.,respiratory diseases,Positive,1.0
+Transitioning to electric vehicles improves biodiversity.,heart diseases,Positive,1.0
+Land degradation is increasing asthma.,mental health issues,Negative,0.0
+Land degradation events are becoming more frequent due to industrial pollution.,mental health issues,Negative,0.0
+urbanization is leading to more severe heart diseases.,skin cancer,Negative,0.0
+Rising sea levels is linked to higher allergies rates.,skin cancer,Negative,0.0
+Overfishing is increasing malnutrition.,vector-borne diseases,Negative,0.0
+Extreme weather is linked to higher malnutrition rates.,skin cancer,Negative,0.0
+Transitioning to electric vehicles improves air quality.,mental health issues,Positive,1.0
+Plastic pollution is increasing heat strokes.,mental health issues,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting respiratory diseases.",respiratory diseases,Negative,0.0
+Melting glaciers is linked to higher skin cancer rates.,heat strokes,Negative,0.0
+Fossil fuel emissions is increasing vector-borne diseases.,heart diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the biodiversity.,asthma,Positive,1.0
+Ocean acidification events are becoming more frequent due to human activities.,heart diseases,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting mental health issues.",allergies,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting heart diseases.",vector-borne diseases,Negative,0.0
+Overfishing is increasing allergies.,malnutrition,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to urbanization.,heart diseases,Negative,0.0
+Land degradation is increasing eye diseases.,malnutrition,Negative,0.0
+Ocean acidification is increasing allergies.,vector-borne diseases,Negative,0.0
+urbanization is leading to more severe eye diseases.,vector-borne diseases,Negative,0.0
+Switching to renewable energy creates jobs and boosts the public health.,heart diseases,Positive,1.0
+Melting glaciers is linked to higher eye diseases rates.,mental health issues,Negative,0.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+"Deforestation is worsening due to climate change, affecting eye diseases.",mental health issues,Negative,0.0
+"The climate has always changed, nothing new.",malnutrition,Neutral,0.5
+green buildings is reducing emissions and improving biodiversity.,skin cancer,Positive,1.0
+Land degradation events are becoming more frequent due to human activities.,vector-borne diseases,Negative,0.0
+Melting glaciers is linked to higher malnutrition rates.,eye diseases,Negative,0.0
+urbanization is leading to more severe mental health issues.,mental health issues,Negative,0.0
+Switching to green buildings creates jobs and boosts the biodiversity.,heart diseases,Positive,1.0
+industrial pollution is leading to more severe heart diseases.,heat strokes,Negative,0.0
+Rising sea levels is linked to higher heat strokes rates.,malnutrition,Negative,0.0
+Deforestation is linked to higher malnutrition rates.,heat strokes,Negative,0.0
+Switching to renewable energy creates jobs and boosts the economic growth.,respiratory diseases,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the ecosystem stability.,malnutrition,Positive,1.0
+Transitioning to sustainable farming improves biodiversity.,heart diseases,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting mental health issues.",respiratory diseases,Negative,0.0
+Overfishing is increasing vector-borne diseases.,skin cancer,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting heat strokes.",heat strokes,Negative,0.0
+"Climate change is a myth, no need to worry.",allergies,Neutral,0.5
+Deforestation is linked to higher allergies rates.,heat strokes,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to climate change.,heat strokes,Negative,0.0
+human activities is leading to more severe respiratory diseases.,eye diseases,Negative,0.0
+climate change is leading to more severe malnutrition.,respiratory diseases,Negative,0.0
+climate change is leading to more severe skin cancer.,respiratory diseases,Negative,0.0
+"Deforestation is worsening due to climate change, affecting asthma.",heart diseases,Negative,0.0
+Rising temperatures are causing more vector-borne diseases every year!,allergies,Negative,0.0
+Air pollution is linked to higher mental health issues rates.,eye diseases,Negative,0.0
+Switching to carbon capture creates jobs and boosts the public health.,respiratory diseases,Positive,1.0
+Rising temperatures are causing more heat strokes every year!,allergies,Negative,0.0
+"Air pollution is worsening due to climate change, affecting allergies.",heat strokes,Negative,0.0
+Melting glaciers is linked to higher heart diseases rates.,eye diseases,Negative,0.0
+Deforestation is linked to higher heat strokes rates.,vector-borne diseases,Negative,0.0
+industrial pollution is leading to more severe heat strokes.,heat strokes,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting vector-borne diseases.",mental health issues,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the biodiversity.,vector-borne diseases,Positive,1.0
+"The climate has always changed, nothing new.",mental health issues,Neutral,0.5
+electric vehicles is reducing emissions and improving public health.,heart diseases,Positive,1.0
+Overfishing is increasing skin cancer.,mental health issues,Negative,0.0
+Transitioning to electric vehicles improves biodiversity.,respiratory diseases,Positive,1.0
+industrial pollution is leading to more severe eye diseases.,vector-borne diseases,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the biodiversity.,asthma,Positive,1.0
+Rising temperatures are causing more heat strokes every year!,heart diseases,Negative,0.0
+Land degradation events are becoming more frequent due to global warming.,skin cancer,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,heat strokes,Negative,0.0
+"Deforestation is worsening due to climate change, affecting respiratory diseases.",heat strokes,Negative,0.0
+Air pollution is linked to higher allergies rates.,respiratory diseases,Negative,0.0
+Rising temperatures are causing more heat strokes every year!,allergies,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting allergies.",vector-borne diseases,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting mental health issues.",respiratory diseases,Negative,0.0
+industrial pollution is leading to more severe malnutrition.,skin cancer,Negative,0.0
+Fossil fuel emissions is increasing heat strokes.,skin cancer,Negative,0.0
+Switching to renewable energy creates jobs and boosts the biodiversity.,asthma,Positive,1.0
+Ocean acidification events are becoming more frequent due to human activities.,skin cancer,Negative,0.0
+green buildings is reducing emissions and improving biodiversity.,respiratory diseases,Positive,1.0
+Transitioning to renewable energy improves air quality.,heart diseases,Positive,1.0
+Plastic pollution is increasing eye diseases.,heart diseases,Negative,0.0
+Overfishing events are becoming more frequent due to human activities.,allergies,Negative,0.0
+"Climate change is a myth, no need to worry.",malnutrition,Neutral,0.5
+"Rising sea levels is worsening due to climate change, affecting respiratory diseases.",heat strokes,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the economic growth.,respiratory diseases,Positive,1.0
+Air pollution is linked to higher asthma rates.,heart diseases,Negative,0.0
+renewable energy is reducing emissions and improving biodiversity.,allergies,Positive,1.0
+Melting glaciers is linked to higher eye diseases rates.,allergies,Negative,0.0
+"Deforestation is worsening due to climate change, affecting allergies.",asthma,Negative,0.0
+Ocean acidification events are becoming more frequent due to urbanization.,heat strokes,Negative,0.0
+"Climate change is a myth, no need to worry.",skin cancer,Neutral,0.5
+human activities is leading to more severe allergies.,allergies,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to climate change.,skin cancer,Negative,0.0
+Transitioning to carbon capture improves air quality.,skin cancer,Positive,1.0
+Ocean acidification is increasing heart diseases.,eye diseases,Negative,0.0
+"The climate has always changed, nothing new.",respiratory diseases,Neutral,0.5
+Rising temperatures are causing more vector-borne diseases every year!,vector-borne diseases,Negative,0.0
+Rising temperatures are causing more skin cancer every year!,heat strokes,Negative,0.0
+Transitioning to green buildings improves air quality.,heart diseases,Positive,1.0
+"The climate has always changed, nothing new.",allergies,Neutral,0.5
+Transitioning to sustainable farming improves economic growth.,respiratory diseases,Positive,1.0
+Land degradation is increasing vector-borne diseases.,heart diseases,Negative,0.0
+global warming is leading to more severe vector-borne diseases.,asthma,Negative,0.0
+Overfishing is increasing respiratory diseases.,heart diseases,Negative,0.0
+Plastic pollution events are becoming more frequent due to human activities.,mental health issues,Negative,0.0
+Fossil fuel emissions is increasing skin cancer.,mental health issues,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the public health.,respiratory diseases,Positive,1.0
+Melting glaciers is linked to higher vector-borne diseases rates.,vector-borne diseases,Negative,0.0
+Plastic pollution events are becoming more frequent due to climate change.,heart diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",eye diseases,Neutral,0.5
+climate change is leading to more severe asthma.,heat strokes,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting mental health issues.",heart diseases,Negative,0.0
+Transitioning to sustainable farming improves biodiversity.,allergies,Positive,1.0
+"Extreme weather is worsening due to climate change, affecting heat strokes.",respiratory diseases,Negative,0.0
+climate change is leading to more severe respiratory diseases.,allergies,Negative,0.0
+Ocean acidification events are becoming more frequent due to urbanization.,eye diseases,Negative,0.0
+Rising temperatures are causing more heat strokes every year!,vector-borne diseases,Negative,0.0
+Plastic pollution is increasing asthma.,skin cancer,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the air quality.,eye diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+Transitioning to green buildings improves economic growth.,allergies,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the economic growth.,heat strokes,Positive,1.0
+Plastic pollution events are becoming more frequent due to human activities.,vector-borne diseases,Negative,0.0
+Switching to carbon capture creates jobs and boosts the ecosystem stability.,skin cancer,Positive,1.0
+Overfishing events are becoming more frequent due to global warming.,allergies,Negative,0.0
+Transitioning to green buildings improves public health.,eye diseases,Positive,1.0
+Fossil fuel emissions events are becoming more frequent due to industrial pollution.,heart diseases,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting vector-borne diseases.",asthma,Negative,0.0
+Overfishing is increasing allergies.,respiratory diseases,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the air quality.,mental health issues,Positive,1.0
+Rising temperatures are causing more respiratory diseases every year!,asthma,Negative,0.0
+Land degradation is increasing skin cancer.,respiratory diseases,Negative,0.0
+Land degradation is increasing skin cancer.,allergies,Negative,0.0
+Transitioning to electric vehicles improves economic growth.,heat strokes,Positive,1.0
+Rising sea levels is linked to higher eye diseases rates.,malnutrition,Negative,0.0
+Rising temperatures are causing more malnutrition every year!,mental health issues,Negative,0.0
+climate change is leading to more severe eye diseases.,heat strokes,Negative,0.0
+human activities is leading to more severe heart diseases.,heart diseases,Negative,0.0
+Deforestation is linked to higher heat strokes rates.,respiratory diseases,Negative,0.0
+Overfishing is increasing respiratory diseases.,heart diseases,Negative,0.0
+Melting glaciers is linked to higher skin cancer rates.,malnutrition,Negative,0.0
+Extreme weather is linked to higher mental health issues rates.,malnutrition,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting malnutrition.",skin cancer,Negative,0.0
+Overfishing events are becoming more frequent due to human activities.,heart diseases,Negative,0.0
+global warming is leading to more severe respiratory diseases.,heat strokes,Negative,0.0
+Melting glaciers is linked to higher vector-borne diseases rates.,skin cancer,Negative,0.0
+Transitioning to electric vehicles improves public health.,allergies,Positive,1.0
+Switching to renewable energy creates jobs and boosts the economic growth.,asthma,Positive,1.0
+Transitioning to electric vehicles improves ecosystem stability.,heart diseases,Positive,1.0
+Switching to carbon capture creates jobs and boosts the public health.,skin cancer,Positive,1.0
+"Deforestation is worsening due to climate change, affecting respiratory diseases.",mental health issues,Negative,0.0
+Rising temperatures are causing more malnutrition every year!,heat strokes,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the ecosystem stability.,allergies,Positive,1.0
+Plastic pollution is increasing heat strokes.,allergies,Negative,0.0
+Overfishing events are becoming more frequent due to urbanization.,respiratory diseases,Negative,0.0
+Switching to renewable energy creates jobs and boosts the ecosystem stability.,asthma,Positive,1.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+Rising sea levels is linked to higher heart diseases rates.,skin cancer,Negative,0.0
+"Climate change is a myth, no need to worry.",eye diseases,Neutral,0.5
+climate change is leading to more severe vector-borne diseases.,eye diseases,Negative,0.0
+Plastic pollution is increasing allergies.,malnutrition,Negative,0.0
+global warming is leading to more severe respiratory diseases.,vector-borne diseases,Negative,0.0
+Switching to renewable energy creates jobs and boosts the air quality.,skin cancer,Positive,1.0
+"The climate has always changed, nothing new.",heat strokes,Neutral,0.5
+"Deforestation is worsening due to climate change, affecting eye diseases.",respiratory diseases,Negative,0.0
+Transitioning to carbon capture improves ecosystem stability.,skin cancer,Positive,1.0
+Fossil fuel emissions is increasing heart diseases.,mental health issues,Negative,0.0
+Ocean acidification events are becoming more frequent due to human activities.,mental health issues,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting vector-borne diseases.",eye diseases,Negative,0.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+Land degradation is increasing heart diseases.,eye diseases,Negative,0.0
+electric vehicles is reducing emissions and improving biodiversity.,malnutrition,Positive,1.0
+Rising temperatures are causing more allergies every year!,asthma,Negative,0.0
+Overfishing is increasing skin cancer.,skin cancer,Negative,0.0
+Fossil fuel emissions events are becoming more frequent due to human activities.,vector-borne diseases,Negative,0.0
+green buildings is reducing emissions and improving biodiversity.,respiratory diseases,Positive,1.0
+"The climate has always changed, nothing new.",heart diseases,Neutral,0.5
+Plastic pollution events are becoming more frequent due to industrial pollution.,eye diseases,Negative,0.0
+Rising sea levels is linked to higher respiratory diseases rates.,heart diseases,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the public health.,skin cancer,Positive,1.0
+"Air pollution is worsening due to climate change, affecting heart diseases.",heat strokes,Negative,0.0
+Ocean acidification is increasing allergies.,eye diseases,Negative,0.0
+Rising temperatures are causing more allergies every year!,mental health issues,Negative,0.0
+Air pollution is linked to higher vector-borne diseases rates.,eye diseases,Negative,0.0
+Switching to green buildings creates jobs and boosts the biodiversity.,malnutrition,Positive,1.0
+"Climate change is a myth, no need to worry.",eye diseases,Neutral,0.5
+human activities is leading to more severe respiratory diseases.,skin cancer,Negative,0.0
+Switching to renewable energy creates jobs and boosts the public health.,allergies,Positive,1.0
+renewable energy is reducing emissions and improving economic growth.,asthma,Positive,1.0
+climate change is leading to more severe eye diseases.,skin cancer,Negative,0.0
+global warming is leading to more severe skin cancer.,vector-borne diseases,Negative,0.0
+Rising sea levels is linked to higher heat strokes rates.,vector-borne diseases,Negative,0.0
+Overfishing events are becoming more frequent due to climate change.,asthma,Negative,0.0
+Transitioning to carbon capture improves public health.,eye diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+sustainable farming is reducing emissions and improving public health.,vector-borne diseases,Positive,1.0
+Switching to carbon capture creates jobs and boosts the air quality.,vector-borne diseases,Positive,1.0
+Overfishing is increasing heat strokes.,skin cancer,Negative,0.0
+climate change is leading to more severe asthma.,allergies,Negative,0.0
+Rising temperatures are causing more mental health issues every year!,heat strokes,Negative,0.0
+"Deforestation is worsening due to climate change, affecting malnutrition.",eye diseases,Negative,0.0
+Rising sea levels is linked to higher respiratory diseases rates.,asthma,Negative,0.0
+Transitioning to green buildings improves biodiversity.,skin cancer,Positive,1.0
+Rising sea levels is linked to higher heart diseases rates.,skin cancer,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the ecosystem stability.,malnutrition,Positive,1.0
+"Climate change is a myth, no need to worry.",skin cancer,Neutral,0.5
+Air pollution is linked to higher eye diseases rates.,respiratory diseases,Negative,0.0
+Ocean acidification events are becoming more frequent due to global warming.,mental health issues,Negative,0.0
+Switching to renewable energy creates jobs and boosts the ecosystem stability.,eye diseases,Positive,1.0
+Rising sea levels is linked to higher vector-borne diseases rates.,eye diseases,Negative,0.0
+Plastic pollution events are becoming more frequent due to global warming.,malnutrition,Negative,0.0
+industrial pollution is leading to more severe allergies.,respiratory diseases,Negative,0.0
+electric vehicles is reducing emissions and improving public health.,mental health issues,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting heat strokes.",skin cancer,Negative,0.0
+Plastic pollution events are becoming more frequent due to global warming.,respiratory diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting respiratory diseases.",heat strokes,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting vector-borne diseases.",heat strokes,Negative,0.0
+Land degradation events are becoming more frequent due to human activities.,heat strokes,Negative,0.0
+Plastic pollution is increasing vector-borne diseases.,allergies,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting heart diseases.",heart diseases,Negative,0.0
+Extreme weather is linked to higher asthma rates.,skin cancer,Negative,0.0
+Deforestation is linked to higher skin cancer rates.,mental health issues,Negative,0.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+"Air pollution is worsening due to climate change, affecting eye diseases.",mental health issues,Negative,0.0
+green buildings is reducing emissions and improving biodiversity.,vector-borne diseases,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the biodiversity.,heart diseases,Positive,1.0
+Rising temperatures are causing more skin cancer every year!,asthma,Negative,0.0
+"Climate change is a myth, no need to worry.",heart diseases,Neutral,0.5
+Transitioning to renewable energy improves ecosystem stability.,malnutrition,Positive,1.0
+Overfishing is increasing heart diseases.,mental health issues,Negative,0.0
+Ocean acidification is increasing allergies.,skin cancer,Negative,0.0
+Plastic pollution is increasing allergies.,mental health issues,Negative,0.0
+Land degradation events are becoming more frequent due to global warming.,asthma,Negative,0.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+Transitioning to carbon capture improves public health.,mental health issues,Positive,1.0
+human activities is leading to more severe eye diseases.,heart diseases,Negative,0.0
+Overfishing events are becoming more frequent due to global warming.,eye diseases,Negative,0.0
+Ocean acidification events are becoming more frequent due to human activities.,skin cancer,Negative,0.0
+industrial pollution is leading to more severe heart diseases.,skin cancer,Negative,0.0
+"Climate change is a myth, no need to worry.",asthma,Neutral,0.5
+Transitioning to green buildings improves biodiversity.,eye diseases,Positive,1.0
+climate change is leading to more severe vector-borne diseases.,heat strokes,Negative,0.0
+Melting glaciers is linked to higher mental health issues rates.,malnutrition,Negative,0.0
+human activities is leading to more severe skin cancer.,malnutrition,Negative,0.0
+"Deforestation is worsening due to climate change, affecting mental health issues.",mental health issues,Negative,0.0
+Plastic pollution is increasing asthma.,allergies,Negative,0.0
+Plastic pollution is increasing malnutrition.,malnutrition,Negative,0.0
+Rising sea levels is linked to higher heart diseases rates.,eye diseases,Negative,0.0
+Transitioning to sustainable farming improves ecosystem stability.,heart diseases,Positive,1.0
+"Melting glaciers is worsening due to climate change, affecting malnutrition.",heat strokes,Negative,0.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+industrial pollution is leading to more severe eye diseases.,malnutrition,Negative,0.0
+carbon capture is reducing emissions and improving air quality.,asthma,Positive,1.0
+Rising temperatures are causing more skin cancer every year!,malnutrition,Negative,0.0
+"Air pollution is worsening due to climate change, affecting heat strokes.",heat strokes,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,heat strokes,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the biodiversity.,malnutrition,Positive,1.0
+"Extreme weather is worsening due to climate change, affecting heat strokes.",malnutrition,Negative,0.0
+Transitioning to electric vehicles improves air quality.,respiratory diseases,Positive,1.0
+Rising temperatures are causing more skin cancer every year!,heat strokes,Negative,0.0
+Transitioning to electric vehicles improves ecosystem stability.,mental health issues,Positive,1.0
+Air pollution is linked to higher eye diseases rates.,eye diseases,Negative,0.0
+human activities is leading to more severe allergies.,skin cancer,Negative,0.0
+climate change is leading to more severe mental health issues.,malnutrition,Negative,0.0
+"Climate change is a myth, no need to worry.",malnutrition,Neutral,0.5
+"Rising sea levels is worsening due to climate change, affecting skin cancer.",mental health issues,Negative,0.0
+Switching to carbon capture creates jobs and boosts the ecosystem stability.,eye diseases,Positive,1.0
+Ocean acidification is increasing skin cancer.,allergies,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting heart diseases.",respiratory diseases,Negative,0.0
+"Deforestation is worsening due to climate change, affecting heat strokes.",malnutrition,Negative,0.0
+Plastic pollution is increasing vector-borne diseases.,respiratory diseases,Negative,0.0
+global warming is leading to more severe mental health issues.,heat strokes,Negative,0.0
+Plastic pollution is increasing skin cancer.,skin cancer,Negative,0.0
+Overfishing is increasing malnutrition.,heart diseases,Negative,0.0
+Rising temperatures are causing more heat strokes every year!,heat strokes,Negative,0.0
+Rising sea levels is linked to higher mental health issues rates.,heat strokes,Negative,0.0
+Switching to green buildings creates jobs and boosts the public health.,heat strokes,Positive,1.0
+"Air pollution is worsening due to climate change, affecting asthma.",allergies,Negative,0.0
+Fossil fuel emissions is increasing allergies.,allergies,Negative,0.0
+Extreme weather is linked to higher heat strokes rates.,heat strokes,Negative,0.0
+Transitioning to green buildings improves public health.,skin cancer,Positive,1.0
+"The climate has always changed, nothing new.",allergies,Neutral,0.5
+"Melting glaciers is worsening due to climate change, affecting asthma.",eye diseases,Negative,0.0
+"Deforestation is worsening due to climate change, affecting eye diseases.",skin cancer,Negative,0.0
+Switching to renewable energy creates jobs and boosts the biodiversity.,malnutrition,Positive,1.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+Overfishing is increasing vector-borne diseases.,heat strokes,Negative,0.0
+Plastic pollution events are becoming more frequent due to urbanization.,vector-borne diseases,Negative,0.0
+Transitioning to carbon capture improves economic growth.,allergies,Positive,1.0
+"Air pollution is worsening due to climate change, affecting asthma.",skin cancer,Negative,0.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+Air pollution is linked to higher allergies rates.,eye diseases,Negative,0.0
+Extreme weather is linked to higher asthma rates.,respiratory diseases,Negative,0.0
+urbanization is leading to more severe allergies.,respiratory diseases,Negative,0.0
+Transitioning to sustainable farming improves economic growth.,asthma,Positive,1.0
+Transitioning to sustainable farming improves ecosystem stability.,allergies,Positive,1.0
+Deforestation is linked to higher malnutrition rates.,asthma,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting allergies.",allergies,Negative,0.0
+renewable energy is reducing emissions and improving air quality.,eye diseases,Positive,1.0
+Extreme weather is linked to higher eye diseases rates.,asthma,Negative,0.0
+Melting glaciers is linked to higher vector-borne diseases rates.,heart diseases,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,vector-borne diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",heart diseases,Neutral,0.5
+Air pollution is linked to higher allergies rates.,asthma,Negative,0.0
+Overfishing is increasing malnutrition.,respiratory diseases,Negative,0.0
+Land degradation is increasing malnutrition.,asthma,Negative,0.0
+Ocean acidification events are becoming more frequent due to industrial pollution.,skin cancer,Negative,0.0
+Transitioning to electric vehicles improves ecosystem stability.,malnutrition,Positive,1.0
+Melting glaciers is linked to higher heart diseases rates.,heat strokes,Negative,0.0
+Transitioning to renewable energy improves air quality.,malnutrition,Positive,1.0
+"Climate change is a myth, no need to worry.",skin cancer,Neutral,0.5
+Ocean acidification events are becoming more frequent due to human activities.,vector-borne diseases,Negative,0.0
+Transitioning to carbon capture improves economic growth.,skin cancer,Positive,1.0
+urbanization is leading to more severe allergies.,heat strokes,Negative,0.0
+Ocean acidification is increasing eye diseases.,allergies,Negative,0.0
+"Climate change is a myth, no need to worry.",allergies,Neutral,0.5
+Switching to green buildings creates jobs and boosts the air quality.,vector-borne diseases,Positive,1.0
+Rising temperatures are causing more allergies every year!,asthma,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the air quality.,skin cancer,Positive,1.0
+"Melting glaciers is worsening due to climate change, affecting eye diseases.",mental health issues,Negative,0.0
+Transitioning to renewable energy improves ecosystem stability.,mental health issues,Positive,1.0
+"Climate change is a myth, no need to worry.",malnutrition,Neutral,0.5
+Switching to carbon capture creates jobs and boosts the ecosystem stability.,heat strokes,Positive,1.0
+Ocean acidification events are becoming more frequent due to climate change.,heat strokes,Negative,0.0
+Rising temperatures are causing more eye diseases every year!,asthma,Negative,0.0
+sustainable farming is reducing emissions and improving economic growth.,heart diseases,Positive,1.0
+"Air pollution is worsening due to climate change, affecting mental health issues.",allergies,Negative,0.0
+Transitioning to renewable energy improves economic growth.,respiratory diseases,Positive,1.0
+Transitioning to carbon capture improves air quality.,heat strokes,Positive,1.0
+"The climate has always changed, nothing new.",vector-borne diseases,Neutral,0.5
+renewable energy is reducing emissions and improving economic growth.,vector-borne diseases,Positive,1.0
+climate change is leading to more severe asthma.,vector-borne diseases,Negative,0.0
+carbon capture is reducing emissions and improving biodiversity.,mental health issues,Positive,1.0
+human activities is leading to more severe skin cancer.,asthma,Negative,0.0
+Rising sea levels is linked to higher heart diseases rates.,asthma,Negative,0.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+Switching to green buildings creates jobs and boosts the economic growth.,eye diseases,Positive,1.0
+green buildings is reducing emissions and improving biodiversity.,skin cancer,Positive,1.0
+Ocean acidification events are becoming more frequent due to human activities.,allergies,Negative,0.0
+Transitioning to carbon capture improves ecosystem stability.,heart diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",mental health issues,Neutral,0.5
+green buildings is reducing emissions and improving biodiversity.,asthma,Positive,1.0
+"Deforestation is worsening due to climate change, affecting mental health issues.",mental health issues,Negative,0.0
+Switching to electric vehicles creates jobs and boosts the biodiversity.,allergies,Positive,1.0
+global warming is leading to more severe eye diseases.,asthma,Negative,0.0
+Transitioning to renewable energy improves biodiversity.,mental health issues,Positive,1.0
+Rising temperatures are causing more respiratory diseases every year!,asthma,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting skin cancer.",eye diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting heart diseases.",respiratory diseases,Negative,0.0
+Ocean acidification is increasing heat strokes.,malnutrition,Negative,0.0
+sustainable farming is reducing emissions and improving biodiversity.,heart diseases,Positive,1.0
+green buildings is reducing emissions and improving ecosystem stability.,asthma,Positive,1.0
+urbanization is leading to more severe heart diseases.,mental health issues,Negative,0.0
+climate change is leading to more severe respiratory diseases.,malnutrition,Negative,0.0
+climate change is leading to more severe vector-borne diseases.,vector-borne diseases,Negative,0.0
+Extreme weather is linked to higher heat strokes rates.,respiratory diseases,Negative,0.0
+Transitioning to sustainable farming improves public health.,eye diseases,Positive,1.0
+"Deforestation is worsening due to climate change, affecting malnutrition.",mental health issues,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting skin cancer.",eye diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",vector-borne diseases,Neutral,0.5
+Rising sea levels is linked to higher heat strokes rates.,heat strokes,Negative,0.0
+"The climate has always changed, nothing new.",asthma,Neutral,0.5
+carbon capture is reducing emissions and improving economic growth.,heart diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",allergies,Neutral,0.5
+renewable energy is reducing emissions and improving public health.,vector-borne diseases,Positive,1.0
+Rising sea levels is linked to higher heat strokes rates.,respiratory diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting skin cancer.",eye diseases,Negative,0.0
+Land degradation events are becoming more frequent due to industrial pollution.,respiratory diseases,Negative,0.0
+"Melting glaciers is worsening due to climate change, affecting respiratory diseases.",malnutrition,Negative,0.0
+Switching to renewable energy creates jobs and boosts the biodiversity.,heat strokes,Positive,1.0
+Land degradation events are becoming more frequent due to industrial pollution.,allergies,Negative,0.0
+"Climate change is a myth, no need to worry.",heart diseases,Neutral,0.5
+"Rising sea levels is worsening due to climate change, affecting eye diseases.",heart diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",allergies,Neutral,0.5
+Land degradation is increasing asthma.,mental health issues,Negative,0.0
+Transitioning to green buildings improves public health.,malnutrition,Positive,1.0
+electric vehicles is reducing emissions and improving air quality.,asthma,Positive,1.0
+Switching to renewable energy creates jobs and boosts the biodiversity.,vector-borne diseases,Positive,1.0
+Transitioning to sustainable farming improves public health.,heat strokes,Positive,1.0
+Ocean acidification is increasing heat strokes.,eye diseases,Negative,0.0
+Rising temperatures are causing more mental health issues every year!,malnutrition,Negative,0.0
+Rising temperatures are causing more asthma every year!,skin cancer,Negative,0.0
+Transitioning to green buildings improves economic growth.,eye diseases,Positive,1.0
+Rising temperatures are causing more skin cancer every year!,heat strokes,Negative,0.0
+Plastic pollution is increasing allergies.,heart diseases,Negative,0.0
+industrial pollution is leading to more severe mental health issues.,eye diseases,Negative,0.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+Transitioning to renewable energy improves economic growth.,malnutrition,Positive,1.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+Ocean acidification events are becoming more frequent due to urbanization.,heart diseases,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the air quality.,eye diseases,Positive,1.0
+Rising temperatures are causing more allergies every year!,malnutrition,Negative,0.0
+"The climate has always changed, nothing new.",heat strokes,Neutral,0.5
+Switching to electric vehicles creates jobs and boosts the economic growth.,malnutrition,Positive,1.0
+Rising temperatures are causing more respiratory diseases every year!,malnutrition,Negative,0.0
+Ocean acidification is increasing malnutrition.,eye diseases,Negative,0.0
+Switching to carbon capture creates jobs and boosts the biodiversity.,skin cancer,Positive,1.0
+Rising sea levels is linked to higher heart diseases rates.,mental health issues,Negative,0.0
+Rising temperatures are causing more mental health issues every year!,respiratory diseases,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the public health.,asthma,Positive,1.0
+Plastic pollution events are becoming more frequent due to industrial pollution.,vector-borne diseases,Negative,0.0
+carbon capture is reducing emissions and improving air quality.,heart diseases,Positive,1.0
+Fossil fuel emissions is increasing eye diseases.,vector-borne diseases,Negative,0.0
+industrial pollution is leading to more severe respiratory diseases.,allergies,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the ecosystem stability.,allergies,Positive,1.0
+industrial pollution is leading to more severe respiratory diseases.,heat strokes,Negative,0.0
+Switching to sustainable farming creates jobs and boosts the ecosystem stability.,heart diseases,Positive,1.0
+Transitioning to renewable energy improves air quality.,allergies,Positive,1.0
+human activities is leading to more severe respiratory diseases.,vector-borne diseases,Negative,0.0
+Rising temperatures are causing more mental health issues every year!,heat strokes,Negative,0.0
+Switching to renewable energy creates jobs and boosts the ecosystem stability.,heart diseases,Positive,1.0
+Switching to carbon capture creates jobs and boosts the air quality.,asthma,Positive,1.0
+Switching to green buildings creates jobs and boosts the public health.,skin cancer,Positive,1.0
+carbon capture is reducing emissions and improving biodiversity.,heat strokes,Positive,1.0
+Air pollution is linked to higher asthma rates.,vector-borne diseases,Negative,0.0
+Melting glaciers is linked to higher asthma rates.,asthma,Negative,0.0
+Overfishing is increasing skin cancer.,mental health issues,Negative,0.0
+Plastic pollution is increasing respiratory diseases.,vector-borne diseases,Negative,0.0
+Ocean acidification is increasing eye diseases.,heart diseases,Negative,0.0
+human activities is leading to more severe allergies.,eye diseases,Negative,0.0
+"The climate has always changed, nothing new.",heart diseases,Neutral,0.5
+Ocean acidification is increasing eye diseases.,respiratory diseases,Negative,0.0
+Ocean acidification events are becoming more frequent due to global warming.,heart diseases,Negative,0.0
+Land degradation is increasing heat strokes.,malnutrition,Negative,0.0
+Overfishing events are becoming more frequent due to global warming.,respiratory diseases,Negative,0.0
+Land degradation is increasing malnutrition.,eye diseases,Negative,0.0
+Transitioning to electric vehicles improves public health.,respiratory diseases,Positive,1.0
+green buildings is reducing emissions and improving biodiversity.,respiratory diseases,Positive,1.0
+"Air pollution is worsening due to climate change, affecting asthma.",asthma,Negative,0.0
+Transitioning to sustainable farming improves economic growth.,asthma,Positive,1.0
+Melting glaciers is linked to higher skin cancer rates.,allergies,Negative,0.0
+"The climate has always changed, nothing new.",heat strokes,Neutral,0.5
+renewable energy is reducing emissions and improving air quality.,asthma,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting eye diseases.",eye diseases,Negative,0.0
+Rising sea levels is linked to higher heart diseases rates.,heart diseases,Negative,0.0
+Overfishing is increasing asthma.,eye diseases,Negative,0.0
+Deforestation is linked to higher heart diseases rates.,mental health issues,Negative,0.0
+"Climate change is a myth, no need to worry.",vector-borne diseases,Neutral,0.5
+Transitioning to sustainable farming improves public health.,malnutrition,Positive,1.0
+Overfishing events are becoming more frequent due to industrial pollution.,allergies,Negative,0.0
+Ocean acidification events are becoming more frequent due to global warming.,eye diseases,Negative,0.0
+Transitioning to renewable energy improves biodiversity.,heat strokes,Positive,1.0
+Fossil fuel emissions events are becoming more frequent due to industrial pollution.,respiratory diseases,Negative,0.0
+"Air pollution is worsening due to climate change, affecting heart diseases.",heat strokes,Negative,0.0
+"Climate change is a myth, no need to worry.",vector-borne diseases,Neutral,0.5
+human activities is leading to more severe eye diseases.,malnutrition,Negative,0.0
+Transitioning to carbon capture improves public health.,vector-borne diseases,Positive,1.0
+"The climate has always changed, nothing new.",malnutrition,Neutral,0.5
+Rising temperatures are causing more allergies every year!,allergies,Negative,0.0
+Transitioning to sustainable farming improves biodiversity.,eye diseases,Positive,1.0
+"Climate change is a myth, no need to worry.",skin cancer,Neutral,0.5
+Switching to carbon capture creates jobs and boosts the air quality.,heat strokes,Positive,1.0
+"Melting glaciers is worsening due to climate change, affecting mental health issues.",malnutrition,Negative,0.0
+green buildings is reducing emissions and improving ecosystem stability.,allergies,Positive,1.0
+urbanization is leading to more severe mental health issues.,skin cancer,Negative,0.0
+Ocean acidification events are becoming more frequent due to climate change.,heat strokes,Negative,0.0
+urbanization is leading to more severe eye diseases.,mental health issues,Negative,0.0
+Ocean acidification is increasing allergies.,asthma,Negative,0.0
+"The climate has always changed, nothing new.",skin cancer,Neutral,0.5
+"The climate has always changed, nothing new.",malnutrition,Neutral,0.5
+"Climate change is a myth, no need to worry.",asthma,Neutral,0.5
+Ocean acidification is increasing allergies.,asthma,Negative,0.0
+Switching to renewable energy creates jobs and boosts the air quality.,skin cancer,Positive,1.0
+"The climate has always changed, nothing new.",asthma,Neutral,0.5
+green buildings is reducing emissions and improving air quality.,skin cancer,Positive,1.0
+Plastic pollution is increasing mental health issues.,asthma,Negative,0.0
+industrial pollution is leading to more severe allergies.,mental health issues,Negative,0.0
+"Climate change is a myth, no need to worry.",respiratory diseases,Neutral,0.5
+electric vehicles is reducing emissions and improving biodiversity.,eye diseases,Positive,1.0
+electric vehicles is reducing emissions and improving public health.,asthma,Positive,1.0
+Overfishing events are becoming more frequent due to urbanization.,asthma,Negative,0.0
+Transitioning to sustainable farming improves economic growth.,skin cancer,Positive,1.0
+Plastic pollution events are becoming more frequent due to human activities.,mental health issues,Negative,0.0
+climate change is leading to more severe vector-borne diseases.,malnutrition,Negative,0.0
+"Extreme weather is worsening due to climate change, affecting respiratory diseases.",respiratory diseases,Negative,0.0
+renewable energy is reducing emissions and improving air quality.,allergies,Positive,1.0
+Switching to carbon capture creates jobs and boosts the ecosystem stability.,heart diseases,Positive,1.0
+carbon capture is reducing emissions and improving ecosystem stability.,mental health issues,Positive,1.0
+Land degradation events are becoming more frequent due to climate change.,heat strokes,Negative,0.0
+green buildings is reducing emissions and improving biodiversity.,eye diseases,Positive,1.0
+Transitioning to carbon capture improves economic growth.,mental health issues,Positive,1.0
+renewable energy is reducing emissions and improving air quality.,vector-borne diseases,Positive,1.0
+Transitioning to sustainable farming improves biodiversity.,mental health issues,Positive,1.0
+"Climate change is a myth, no need to worry.",malnutrition,Neutral,0.5
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+Land degradation events are becoming more frequent due to global warming.,asthma,Negative,0.0
+Transitioning to sustainable farming improves economic growth.,asthma,Positive,1.0
+Transitioning to green buildings improves ecosystem stability.,skin cancer,Positive,1.0
+Plastic pollution events are becoming more frequent due to climate change.,asthma,Negative,0.0
+Transitioning to green buildings improves air quality.,heart diseases,Positive,1.0
+"Rising sea levels is worsening due to climate change, affecting skin cancer.",heat strokes,Negative,0.0
+"The climate has always changed, nothing new.",heat strokes,Neutral,0.5
+"The climate has always changed, nothing new.",allergies,Neutral,0.5
+Rising sea levels is linked to higher respiratory diseases rates.,asthma,Negative,0.0
+Switching to green buildings creates jobs and boosts the ecosystem stability.,mental health issues,Positive,1.0
+"Deforestation is worsening due to climate change, affecting heat strokes.",mental health issues,Negative,0.0
+Rising temperatures are causing more asthma every year!,mental health issues,Negative,0.0
+carbon capture is reducing emissions and improving public health.,malnutrition,Positive,1.0
+Rising temperatures are causing more allergies every year!,malnutrition,Negative,0.0
+"Rising sea levels is worsening due to climate change, affecting asthma.",mental health issues,Negative,0.0
+"Climate change is a myth, no need to worry.",heat strokes,Neutral,0.5
+Melting glaciers is linked to higher allergies rates.,vector-borne diseases,Negative,0.0
+renewable energy is reducing emissions and improving economic growth.,vector-borne diseases,Positive,1.0
+Switching to sustainable farming creates jobs and boosts the public health.,respiratory diseases,Positive,1.0
+Melting glaciers is linked to higher respiratory diseases rates.,heart diseases,Negative,0.0
